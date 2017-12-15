@@ -4,7 +4,7 @@
 
 # XXX
 #
- require_relative "../../lib/decoder.rb"
+ require_relative "lib/decoder.rb"
  require_relative "post.rb"
  require_relative "link.rb"
  require_relative "memo.rb"
